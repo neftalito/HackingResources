@@ -1,8 +1,4 @@
 # Teoría
-
-https://github.com/jakecreps/poastal
-https://github.com/DominicBreuker/pspy
-
 ## Utilidades
 - [ExplainShell](https://www.explainshell.com/) - Explicaciones de comandos de consola.
 - [ShellCheck](https://www.shellcheck.net/) - Encuentra bugs en tus scripts de bash.
@@ -34,6 +30,8 @@ https://github.com/DominicBreuker/pspy
 - [Canary Tokens](https://canarytokens.org/) - Honeypots.
 - [XSS Payloads](http://www.xss-payloads.com/) - 
 - [Phish Report](https://phish.report/) - Reportar links de phishing.
+- [Poastal](https://github.com/jakecreps/poastal) - Email Osint.
+- [PentestMonkey](https://pentestmonkey.net/) - Lista de herramientas, scripts e información.
 
 ---
 ## Aplicaciones
