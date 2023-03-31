@@ -1,8 +1,5 @@
 # Teoría
 
-https://github.com/jakecreps/poastal
-https://github.com/DominicBreuker/pspy
-
 ## Utilidades
 - [ExplainShell](https://www.explainshell.com/) - Explicaciones de comandos de consola.
 - [ShellCheck](https://www.shellcheck.net/) - Encuentra bugs en tus scripts de bash.
