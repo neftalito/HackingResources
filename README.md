@@ -1,5 +1,8 @@
 # Teoría
 
+https://github.com/jakecreps/poastal
+https://github.com/DominicBreuker/pspy
+
 ## Utilidades
 - [ExplainShell](https://www.explainshell.com/) - Explicaciones de comandos de consola.
 - [ShellCheck](https://www.shellcheck.net/) - Encuentra bugs en tus scripts de bash.
@@ -59,6 +62,7 @@
 	- [Unix Privesc Check](https://github.com/pentestmonkey/unix-privesc-check)
 	- [Linux Priv Checker](https://github.com/sleventyeleven/linuxprivchecker)
 	- [LinEnum](https://github.com/rebootuser/LinEnum) - Mi favorito junto a LinPEAS.
+	- [PSpy](https://github.com/DominicBreuker/pspy) - Ver procesos, cron jobs y comandos de otros usuarios en tiempo real.
 ---
 
 ## Android
@@ -75,6 +79,7 @@
 
 ## Canales de YouTube
 - [IppSec](https://www.youtube.com/@ippsec/) - Writeups de máquinas de HackTheBox.
+- [DarkSec](https://www.youtube.com/@DarkSec) - Writeups para TryHackme
 
 ---
 ## Cursos
